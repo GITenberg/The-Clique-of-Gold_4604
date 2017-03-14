@@ -1,6 +1,9 @@
 _repo: The-Clique-of-Gold_4604
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La clique dorée. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -13,6 +16,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4604#The-Clique-of-Gold
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-04-13'
 gutenberg_type: Text
